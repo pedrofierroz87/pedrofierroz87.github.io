@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "                        "
 title_separator          : "-"
 name                     : &name "Juan Soto Diaz"
 description              : &description ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Juan Soto Diaz"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Economic Geography"
+  bio              : ""
   location         : "London, UK"
   employer         :
   pubmed           : # ""

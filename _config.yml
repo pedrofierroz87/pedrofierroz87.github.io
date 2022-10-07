@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Juan Soto Diaz"
   avatar           : "profile.png"
   bio              : "PhD candidate in Economic Geography"
   location         : "London, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=l07IA64AAAAJ&hl=es"
-  email            :
+  email            : "j.d.soto-diaz@lse.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/Juan-Soto-Diaz?ev=hdr_xprf&_sg=rxFXyahpIEmdpW-NXTW9Cwxe9xXkiwOqojA3Wr_CjKjzp8UGjAlpjF7QGtnyuIxWPC2jRgryH9wE7LzX2em4pYlX"
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #""
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@JD_SotoD"
   vine             :
   weibo            :
   xing             :

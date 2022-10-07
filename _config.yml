@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   bio              : ""
   location         : "London, UK"
   employer         :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"juandanielsotodiaz"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #""
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7526-4268"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

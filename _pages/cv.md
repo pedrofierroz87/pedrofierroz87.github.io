@@ -12,8 +12,11 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* B.A. in Business Management (2008 - 2012) / M.S. in Regional Science (2013 - 2014), Universidad Catolica del Norte
+* London School of Economics (LSE) 
+Ph.D in Economic Geography (2018 - dissertation submitted 09/2022)
+
+*  Universidad Catolica del Norte (UCN - Chile)
+B.A. in Business Management (2008 - 2012) / M.S. in Regional Science (2013 - 2014)
 
 Work experience
 ======

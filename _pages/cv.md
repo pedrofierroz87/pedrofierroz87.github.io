@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,10 +13,12 @@ Education
 ======
 
 * London School of Economics (LSE) 
-Ph.D in Economic Geography (2018 - dissertation submitted 09/2022)
+  * Ph.D in Economic Geography (2018 - dissertation submitted 09/2022)
+  * Dissertation: Essays on Globalization, Commodities, and Local Economic Development
+  * Specialization: International Trade, Development Economics, Urban Economics, Resource Economics
 
 *  Universidad Catolica del Norte (UCN - Chile)
-B.A. in Business Management (2008 - 2012) / M.S. in Regional Science (2013 - 2014)
+  *  B.A. in Business Management (2008 - 2012) / M.S. in Regional Science (2013 - 2014)
 
 Work experience
 ======

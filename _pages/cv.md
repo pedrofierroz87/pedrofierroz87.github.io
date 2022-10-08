@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 
-* London School of Economics (LSE) 
-  * Ph.D in Economic Geography (2018 - dissertation submitted 09/2022)
-  * Dissertation: Essays on Globalization, Commodities, and Local Economic Development
-  * Specialization: International Trade, Development Economics, Urban Economics, Resource Economics
+* [London School of Economics (LSE)](https://www.lse.ac.uk).  
+  * [MPhil/PhD in Economic Geography](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MPhilPhD-Economic-Geography) (2018 - dissertation submitted 09/2022)
+  * Dissertation: 
+    * Essays on Globalization, Commodities, and Local Economic Development
 
 *  Universidad Catolica del Norte (UCN - Chile)
   *  B.A. in Business Management (2008 - 2012) / M.S. in Regional Science (2013 - 2014)

@@ -21,9 +21,9 @@ Education
 
 **Prior Education**
 
-*  [Universidad Catolica del Norte (UCN - Chile)](https://www.ucn.cl/en/)   
-  * M.S. in Regional Science (2013 - 2014)
-  * B.A. in Business Management (2008 - 2012)
+*  [Universidad Catolica del Norte (UCN - Chile)](https://www.ucn.cl/en/about-ucn/)   
+    * M.S. in Regional Science (2013 - 2014)
+    * B.A. in Business Management (2008 - 2012)
 
 Work experience
 ======
@@ -37,14 +37,14 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Honours and Fellowships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018–2022 Ph.D. Scholarship, National Commission for Scientific Research (Conicyt/ANID), Chile
+* 2017 PRSCO Award for the Best Paper by a Young Regional Scientist, Taiwan
+* 2014 Andrew Isserman Prize for Best Young Scholar Paper, SOCHER, Chile
+* 2013–2014 Department of Economics Scholarship, UCN, M.Sc. Studies, Chile
+* 2008–2012 Academic Excellence Scholarship, UCN, B.A. Studies, Chile
+* 2008–2012 Scholarship Bicentenario, MINEDUC, B.A. Studies, Chile
 
 Publications
 ======

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Business Management (2008 - 2012) / M.S. in Regional Science (2013 - 2014), Universidad Catolica del Norte
 
 Work experience
 ======

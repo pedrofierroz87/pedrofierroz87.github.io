@@ -14,16 +14,16 @@ Education
 
 **Doctoral Studies**
 
-* [London School of Economics (LSE)](https://www.lse.ac.uk).  
+* [London School of Economics (LSE)](https://www.lse.ac.uk)  
   * [MPhil/PhD in Economic Geography](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MPhilPhD-Economic-Geography) (2018 - dissertation submitted 09/2022)
   * Dissertation: 
     * &quot;<i>Essays on Globalization, Commodities, and Local Economic Development</i>&quot;
 
 **Prior Education**
 
-*  Universidad Catolica del Norte (UCN - Chile)
-  *  M.S. in Regional Science (2013 - 2014)
-  *  B.A. in Business Management (2008 - 2012)
+*  [Universidad Catolica del Norte (UCN - Chile)](https://www.ucn.cl/en/)   
+  * M.S. in Regional Science (2013 - 2014)
+  * B.A. in Business Management (2008 - 2012)
 
 Work experience
 ======

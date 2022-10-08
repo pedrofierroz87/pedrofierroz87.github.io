@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a PhD candidate in Economic Geography at the [London School of Economics and Political Science] (https://www.lse.ac.uk), [Department of Geography and Environment](https://www.lse.ac.uk/geography-and-environment). My current research lies on the intersection of the fields of international trade, development econonomics, urban economics, and resource economics. 
+Hi, I'm a PhD candidate in Economic Geography at the [London School of Economics and Political Science](https://lse.ac.uk), [Department of Geography and Environment](https://www.lse.ac.uk/geography-and-environment). My current research lies on the intersection of the fields of international trade, development econonomics, urban economics, and resource economics. 
 
 A data-driven personal website
 ======

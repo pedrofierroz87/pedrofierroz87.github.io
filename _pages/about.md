@@ -10,6 +10,6 @@ redirect_from:
 
 Hi, I'm a PhD candidate in Economic Geography at the [London School of Economics and Political Science](https://lse.ac.uk), [Department of Geography and Environment](https://www.lse.ac.uk/geography-and-environment). My research lies on the intersection of the fields of trade, development, and resource and urban economics. It aims to develop a better understanding of [<i>The Spatial Economy</i>](https://www.aeaweb.org/articles?id=10.1257/jel.20181414) for the design of policies that promote economic growth and development by means of more sustainable and inclusive forms of production. In my [Job Market Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jors.12269), I explore the contemporaneous and long-term general equilibrium effects of a resource boom and bust in local labor markets, considering the heterogeneous impacts between Multinational Companies and domestic firms in the resource sector.
 
-[Download my CV here](https://www.dropbox.com/s/c620qxgdnt3bsq9/JuanSotoDiaz_CV.pdf?dl=0)    
+[Download my CV here](https://www.dropbox.com/s/w0jhf7hztvy9li4/JuanSotoDiaz_CV.pdf?dl=0)    
 
 [Download my Job Market Paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jors.12269)       

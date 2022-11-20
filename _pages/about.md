@@ -12,4 +12,4 @@ Hi, I'm a PhD candidate in Economic Geography at the [London School of Economics
 
 [Download my CV here](https://juandanielsotodiaz.github.io/site/files/JuanSotoDiaz_CV.pdf)    
 
-[Download my Job Market Paper here](https://www.dropbox.com/s/ra9g2jrzmu4oq0t/JuanSotoDiazJMP_092022.pdf?dl=0)       
+   

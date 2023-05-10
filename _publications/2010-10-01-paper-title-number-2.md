@@ -12,4 +12,4 @@ We are going to develop a theoretical frame to understand the role that campaign
 
 [Download paper here](https://revistadecomunicacion.com/en/articulos/2017_2/4_Art.html)
 
-Recommended citation: Fierro, P. and A. Azurmendi (2017). "Theoretical Approaches About the Role of Electoral Advertising in a Context of Political Malaise" <i>Revista de Comunicación</i>. 16(2).
+Recommended citation: Fierro, P. and A. Azurmendi (2017). "Theoretical Approaches About the Role of Electoral Advertising in a Context of Political Malaise." <i>Revista de Comunicación</i>. 16(2).

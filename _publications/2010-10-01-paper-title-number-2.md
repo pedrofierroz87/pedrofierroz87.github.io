@@ -1,15 +1,15 @@
 ---
-title: "Wage Compensation for Fly‐In/Fly‐Out and Drive‐In/Drive‐Out Commuters"
+title: "Theoretical Approaches About the Role of Electoral Advertising in a Context of Political Malaise"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'The fly‐in/fly‐Out (FIFO) or, drive‐in/drive‐out (DIDO) labour system is a long‐distance commuting work arrangement to attract workers towards remote mineral or fossil fuel extraction areas, where they work in shifts and then return to their usual place of residence located in a different region. Along with more and cheaper transportation alternatives, the use of FIFO/DIDO systems have importantly increased in last decades around the world, which has translated to FIFO/DIDO systems operating even when already established cities are present in extractive regions. This paper uses the case of Chile, one of the most important mining countries in the world, to explore whether and in what extent these labor systems influence wage compensations. We find that FIFO/DIDO commuters obtain an average wage compensation of 2.4 per cent per commuted hour.'
-date: 2018-11-01
-venue: 'Papers in Regional Science'
-paperurl: 'https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/pirs.12296'
-citation: 'Paredes, D. and J. Soto (2018). &quot;Wage Compensation for Fly‐In/Fly‐Out and Drive‐In/Drive‐Out Commuters.&quot; <i>Papers in Regional Science</i>. 97(4).'
+permalink: https://revistadecomunicacion.com/en/articulos/2017_2/4_Art.html
+excerpt: 'We are going to develop a theoretical frame to understand the role that campaigns would have in a context of political malaise. Considering the multidimensionality of the discontent, we are going to conceive the disaffection like the component more related with what Putnam & Goss called ‘the previous conditions for an effective democracy’. Taking into account the results of other studies surrounding the democratic effects of the campaigns, we will suggest that the electoral advertising could help us to improve the civic sense of the citizens from an attitudinal dimension, strengthening our democracies.'
+date: 2017
+venue: 'Revista de Comunicación'
+paperurl: 'https://revistadecomunicacion.com/en/articulos/2017_2/4_Art.html'
+citation: 'Fierro, P. and A. Azurmendi (2017). &quot;Theoretical Approaches About the Role of Electoral Advertising in a Context of Political Malaise.&quot; <i>Revista de Comunicación</i>. 16(2).'
 ---
-The fly‐in/fly‐Out (FIFO) or, drive‐in/drive‐out (DIDO) labour system is a long‐distance commuting work arrangement to attract workers towards remote mineral or fossil fuel extraction areas, where they work in shifts and then return to their usual place of residence located in a different region. Along with more and cheaper transportation alternatives, the use of FIFO/DIDO systems have importantly increased in last decades around the world, which has translated to FIFO/DIDO systems operating even when already established cities are present in extractive regions. This paper uses the case of Chile, one of the most important mining countries in the world, to explore whether and in what extent these labor systems influence wage compensations. We find that FIFO/DIDO commuters obtain an average wage compensation of 2.4 per cent per commuted hour.
+We are going to develop a theoretical frame to understand the role that campaigns would have in a context of political malaise. Considering the multidimensionality of the discontent, we are going to conceive the disaffection like the component more related with what Putnam & Goss called ‘the previous conditions for an effective democracy’. Taking into account the results of other studies surrounding the democratic effects of the campaigns, we will suggest that the electoral advertising could help us to improve the civic sense of the citizens from an attitudinal dimension, strengthening our democracies.
 
-[Download paper here](https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/pirs.12296)
+[Download paper here](https://revistadecomunicacion.com/en/articulos/2017_2/4_Art.html)
 
-Recommended citation: Paredes, D. and J. Soto. (2018). "Wage Compensation for Fly‐In/Fly‐Out and Drive‐In/Drive‐Out Commuters." <i>Papers in Regional Science</i>. 97(4).
+Recommended citation: Fierro, P. and A. Azurmendi (2017). &quot;Theoretical Approaches About the Role of Electoral Advertising in a Context of Political Malaise.&quot; <i>Revista de Comunicación</i>. 16(2).

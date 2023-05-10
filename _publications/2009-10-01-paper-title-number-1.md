@@ -1,7 +1,7 @@
 ---
 title: "Political Campaigns and Public Disaffection: An Approach from Chile to the Effects of Electoral Activities in the Democratic Process"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+collection: _publications
+permalink: /_publication/2009-10-01-paper-title-number-1
 excerpt: 'The growing political disaffection ―shown in polls and opinion polls― ap-pears to be shared by different countries, where Chile has not been left out of phenomenon. In this context can they analyze the electoral campaigns as tools that contribute in solving this problem? Addressing this question requires a different model of thinking when electoral processes, with the consequent emergence of new questions that go beyond mere electoral par-ticipation. In this sense, much of the literature has discussed the real impact of campaigns in the decision to vote and in the direction of that preference. However, interest has not been the same with respect to the effects of the campaigns in the democratic process in its broadest sense and the current scenario requires strengthening the edge. In this research, it precisely seeks an emphasis on the latter, trying to identify and rescue the role campaigns in strengthening democracy and reduce political disaffection. To recons-truct a historical review of the campaigns we reach the concept of ‘political efficacy’, which we will use as a conceptual basis for theoretical soundness to analyze the current state of Chile. Finally, the effects that the campaign may have on the level of political efficacy will be highlighted, allowing us to know, with comparative evidence specifically the potential role that this activity would have in strengthening Chilean democracy.'
 date: 2016
 venue: 'Palabra Clave'

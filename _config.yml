@@ -13,7 +13,7 @@ name                     : &name "Pedro Fierro"
 description              : &description "Assistant Professor, Adolfo Ibanez University"
 url                      : "https://pedrofierroz87.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "juandanielsotodiaz/pedrofierroz87.github.io"
+repository               : "pedrofierroz87/pedrofierroz87.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

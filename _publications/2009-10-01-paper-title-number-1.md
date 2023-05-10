@@ -12,4 +12,4 @@ The growing political disaffection ―shown in polls and opinion polls― ap-pea
 
 [Download paper here](https://palabraclave.unisabana.edu.co/index.php/palabraclave/article/view/5524/pdf)
 
-Recommended citation: López-Hermida Russo, A. P. and Fierro-Zamora, P. (2016). &quot;Campañas políticas y desafección ciudadana: aproximación desde Chile a los efectos de las actividades electorales en el proceso democrático.&quot; <i>Palabra Clave</i>. 19(2).
+Recommended citation: López-Hermida Russo, A. P. and Fierro-Zamora, P. (2016). "Campañas políticas y desafección ciudadana: aproximación desde Chile a los efectos de las actividades electorales en el proceso democrático." <i>Palabra Clave</i>. 19(2).

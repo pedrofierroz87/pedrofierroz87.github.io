@@ -3,7 +3,7 @@ title: "How people access the internet and the democratic divide: Evidence from 
 collection: publications
 permalink: /publication/2022-09-11-paper-title-number-4
 excerpt: 'The Internet has been often described as a tool that fosters the inclusion of traditionally marginalized people in the democratic process. Yet, if the type of device used by people to access the Internet impacts their online democratic engagement, uneven Internet penetration and differences in the devices used by social groups will result in a deeper democratic divide. After discussing the impact of the types of internet use and type of access devices on civic engagement, we postulate 3 hypotheses on how democratic values and type of access to the Internet—place and devices—are related to the civic use of social media. We use data from a Valparaíso Regional poll in Chile in 2017, 2018 and 2019 to test those hypotheses. People who access the Internet via mobile phones are less likely to use social media with a civic purpose, while those who access the Internet at home or work are more likely to do so. Since low-income sectors primarily access the Internet via mobile phones while higher income groups have a wider array of Internet connection options, the rapid growth of cell phone use for accessing the Internet risks deepening social and income gaps in civic engagement.'
-date: 2023-05-10
+date: 2020-01-01
 venue: 'Thechnology in Society'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0160791X20306138?via%3Dihub'
 citation: 'Fierro, P., P. Aroca and P. Navia (2020). &quot;How people access the internet and the democratic divide: Evidence from the Chilean region of Valparaiso 2017, 2018 and 2019.&quot; <i>Technology in Society</i>. 101432.'

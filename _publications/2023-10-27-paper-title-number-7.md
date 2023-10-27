@@ -1,5 +1,5 @@
 ---
-title: "Political Disaffection in the Digital Age: The Use of Social Media and the Gap in Internal and External Efficacy"
+title: "Fund Distribution and Incentives for Territorial Fragmentation. The Case of the FNDR in Chile"
 collection: publications
 permalink: /publication/2023-10-27-paper-title-number-7
 excerpt: 'This work analyzes the relationship between social media use and the development of internal and external political efficacy, using five 1,650-person polls conducted in 2017–2021 in the 10 most populated municipalities of in the Valparaiso Region in Chile, a country characterized by high levels of political discontent and social protests, especially in 2019. With Structural Equation Models, we report positive impacts of different magnitudes of the civic use of social media on internal and external efficacy and no effect of the non-civic use of social media on either type of efficacy. As lower internal and external political efficacy feeds political disaffection, the differentiated use of social media can deepen the gap between engaged and disaffected citizens.'

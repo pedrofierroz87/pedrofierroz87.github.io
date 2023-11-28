@@ -1,0 +1,13 @@
+---
+title: "R"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/2023-ecv
+venue: "P!ensa Foundation"
+date: 2023-01-01
+location: "City, Country"
+---
+
+Its universe covers 7 urban provinces from the Valparaiso region and evaluates 8 dimensions concerning public policy: Work, education, public security, health services, public transport, urban equipment, housing, and life satisfaction. The data collected is used to create an index which, on a scale from 0 to a 1000, evaluates state’s service benefits. Above all, it has allowed both citizens and their rulers to become acquainted with the progress of life quality in the Valparaiso Region, Chile.
+
+[Link Here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GYZWEG)

@@ -1,13 +1,13 @@
 ---
-title: "Replication Data for: How people access the internet (...)"
+title: "Comprehensive Overview of Political Opinion Surveys in Chile's Valparaíso Region (2018-2024)"
 collection: teaching
 type: "Data and Codes"
-permalink: /teaching/2023-technology
+permalink: /teaching/2024-inteop
 venue: "Published Article"
-date: 2023-01-01
+date: 2024-10-16
 location: "City, Country"
 ---
 
-Data and codes for replicating the study "How People Access the Internet and the Democratic Divide: Evidence from the Chilean Region of Valparaíso 2017, 2018, and 2019" are available. This study was published in the journal Technology and Society.
+This dataset and corresponding R code encompass the integration of Political Opinion Surveys (P!ensa) conducted from 2018 to 2024. The study includes over 11,000 face-to-face interviews, collected across the ten major cities in the Valparaíso region of Chile. The dataset contains a wide array of variables such as political participation, political interest, political efficacy, perceptions and satisfaction with democracy, trust in institutions, perceptions of corruption, along with various sociodemographic factors.
 
-[Link Here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGUOJ8)
+[Link Here](https://github.com/pedrofierroz87/EOP_Int)

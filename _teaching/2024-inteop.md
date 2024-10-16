@@ -3,7 +3,7 @@ title: "Comprehensive Overview of Political Opinion Surveys in Chile's Valparaí
 collection: teaching
 type: "Data and Codes"
 permalink: /teaching/2024-inteop
-venue: "Published Article"
+venue: "Chile"
 date: 2024-10-16
 location: "City, Country"
 ---

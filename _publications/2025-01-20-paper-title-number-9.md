@@ -1,15 +1,15 @@
 ---
-title: "Geographies of discontent: measuring and understanding the feeling of abandonment in the Chilean region of Valparaiso (2019–2021)"
+title: "The effects of marginalisation in areas of high political centralisation"
 collection: publications
-permalink: /publication/2024-02-21-paper-title-number-8
-excerpt: 'Political discontent, frequently mirrored in voting patterns, extends beyond ballot votes. By focusing on Valparaiso, Chile, we introduce a more comprehensive measure, external political efficacy (EPE), capturing a sense of abandonment and gauging public sentiment towards the political system’s responsiveness to their needs. Our analysis addresses individual and area-level factors underpinning individual variations in EPE. The evidence suggests that long-term territorial socio-economic disadvantage, rather than low-paid employment, is significantly related to individual discontent, highlighting lowered beliefs in system responsiveness.'
-date: 2024-01-01
-venue: 'Cambridge Journal of Regions, Economy and Society'
-paperurl: 'https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsae004/7606266?redirectedFrom=fulltext'
-citation: 'P. Fierro, I. Aravena-González P. Aroca and F. Rowe (2024). &quot;Geographies of discontent: measuring and understanding the feeling of abandonment in the Chilean region of Valparaiso (2019–2021)&quot; <i>Cambridge Journal of Regions, Economy and Society</i>. 0(0).'
+permalink: /publication/2025-01-20-paper-title-number-9
+excerpt: 'Recent research indicates the existence of ‘places that don’t matter’, where residents harbour feelings of abandonment, prompting a tilt towards anti-system narratives. Yet, the effects of territorial marginalisation extend beyond voting behaviour, influencing deeper underlying factors. Utilising data from 9924 cases in the region of Valparaiso in Chile, this study reveals that living in politically marginalised cities in contexts of high political centralisation correlates with reduced political knowledge and internal political efficacy, even when accounting for other sociodemographic characteristics. By focusing on territorial marginalisation, this analysis offers a fresh perspective on the interplay between individual sociodemographic characteristics and political engagement.'
+date: 2025-01-20
+venue: 'Territory, Politics, Governance'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/21622671.2024.2435888?src='
+citation: 'Fierro, P., Rivera, S., & Brieba, D. (2025). The effects of marginalisation in areas of high political centralisation. Territory, Politics, Governance, 1–24. https://doi.org/10.1080/21622671.2024.2435888'
 ---
-Political discontent, frequently mirrored in voting patterns, extends beyond ballot votes. By focusing on Valparaiso, Chile, we introduce a more comprehensive measure, external political efficacy (EPE), capturing a sense of abandonment and gauging public sentiment towards the political system’s responsiveness to their needs. Our analysis addresses individual and area-level factors underpinning individual variations in EPE. The evidence suggests that long-term territorial socio-economic disadvantage, rather than low-paid employment, is significantly related to individual discontent, highlighting lowered beliefs in system responsiveness.
+Recent research indicates the existence of ‘places that don’t matter’, where residents harbour feelings of abandonment, prompting a tilt towards anti-system narratives. Yet, the effects of territorial marginalisation extend beyond voting behaviour, influencing deeper underlying factors. Utilising data from 9924 cases in the region of Valparaiso in Chile, this study reveals that living in politically marginalised cities in contexts of high political centralisation correlates with reduced political knowledge and internal political efficacy, even when accounting for other sociodemographic characteristics. By focusing on territorial marginalisation, this analysis offers a fresh perspective on the interplay between individual sociodemographic characteristics and political engagement.
 
-[Download paper here](https://academic.oup.com/cjres/advance-article-abstract/doi/10.1093/cjres/rsae004/7606266?redirectedFrom=fulltext)
+[Download paper here](https://www.tandfonline.com/doi/full/10.1080/21622671.2024.2435888?src=)
 
-Recommended citation: P. Fierro, I. Aravena-González P. Aroca and F. Rowe (2024). "Geographies of discontent: measuring and understanding the feeling of abandonment in the Chilean region of Valparaiso (2019–2021)" <i>Cambridge Journal of Regions, Economy and Society</i>. 0(0).
+Recommended citation: Fierro, P., Rivera, S., & Brieba, D. (2025). "The effects of marginalisation in areas of high political centralisation". <i>Territory, Politics, Governance</i>. 0(0).

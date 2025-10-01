@@ -1,7 +1,7 @@
 ---
 title: "How different patterns of online participation reflect internal, external, and online efficacy: the case of Chile"
 collection: publications
-permalink: /publication/2025-10-01-paper-title-number-13
+permalink: /publication/2025-10-01-paper-title-number-12
 excerpt: 'Recent research extensively examines the impact of political efficacy on online and offline political engagement, but those studies often overlook the multifaceted types of political engagement. This study addresses this gap by investigating the association between internal, external, and online political efficacy with the different types of online political engagement, using Chile as a case study. Using Latent Class Analysis, we identify five patterns of online political participants (clicktivist, super, disengaged, selective, and expressive citizens). Subsequently, we explore the relationship between internal, external, and online political efficacy with the five patterns of online participants. Multinomial logistic regressions reveal that internal efficacy exhibits no significant relationship with online political participation. In turn, external efficacy is associated with a higher probability of being a super and expressive citizen, and online efficacy is associated with a higher probability of being a super, expressive, or clicktivist citizen. These findings shed light on the complex relationship between political efficacy and online political engagement, highlighting the impact of measurement choices on the observed relationship between these variables in prior studies.'
 date: 2025-10-01
 venue: 'Information, Communication & Society'

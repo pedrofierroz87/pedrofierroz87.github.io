@@ -1,0 +1,15 @@
+---
+title: "Abandoned Places in the Digital Era: Spatial Roots of Disaffection and the Internet’s Role in Inclusion"
+collection: publications
+permalink: /publication/2025-03-20-paper-title-number-11
+excerpt: 'This book explores the spatial and contextual factors behind citizens anger, frustration, and sense of abandonment, alongside the role of digital platforms in politically marginalized areas. It shifts the focus from voting geography to the geography of discontent, offering a new perspective on digital inequalities. The study addresses the complexities of "left-behind" places, recognizing that patterns of decline in developed countries differ from those in developing nations, where political and cultural dynamics play a key role. Using Chiles Valparaíso region as a case study, the book applies its framework to a context characterized by a strong party system, robust institutions, and high Internet penetration. Chile’s recent political crisis, marked by widespread dissatisfaction, makes this analysis particularly relevant. Valparaíso, with its unique role as the host of the National Congress and as a focal point of the 2019 social uprising, serves as a microcosm for understanding the spatial dimensions of political discontent in digitally connected societies.'
+date: 2025-03-20
+venue: 'SpringerBriefs in Regional Science'
+paperurl: 'https://link.springer.com/book/10.1007/978-3-031-81873-8'
+citation: 'Fierro, P., P. Aroca, & P. Navia (2025). Abandoned Places in the Digital Era: Spatial Roots of Disaffection and the Internet’s Role in Inclusion. SpringerBriefs in Regional Science. Publisher: Springer Nature (Book). https://doi.org/10.1007/978-3-031-81873-8'
+---
+This book explores the spatial and contextual factors behind citizens' anger, frustration, and sense of abandonment, alongside the role of digital platforms in politically marginalized areas. It shifts the focus from voting geography to the geography of discontent, offering a new perspective on digital inequalities. The study addresses the complexities of "left-behind" places, recognizing that patterns of decline in developed countries differ from those in developing nations, where political and cultural dynamics play a key role. Using Chile’s Valparaíso region as a case study, the book applies its framework to a context characterized by a strong party system, robust institutions, and high Internet penetration. Chile’s recent political crisis, marked by widespread dissatisfaction, makes this analysis particularly relevant. Valparaíso, with its unique role as the host of the National Congress and as a focal point of the 2019 social uprising, serves as a microcosm for understanding the spatial dimensions of political discontent in digitally connected societies.
+
+[Download paper here](https://link.springer.com/book/10.1007/978-3-031-81873-8)
+
+Recommended citation: Fierro, P., P. Aroca, & P. Navia (2025). "Abandoned Places in the Digital Era: Spatial Roots of Disaffection and the Internet’s Role in Inclusion". <i>SpringerBriefs in Regional Science</i>. Springer Nature.

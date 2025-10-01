@@ -1,9 +1,9 @@
 ---
 title: "Democracy, Deliberation, and Media: The Role of Incidental Exposure and News Consumption"
 collection: publications
-permalink: /publication/2025-10-01-paper-title-number-13
+permalink: /publication/2025-10-02-paper-title-number-13
 excerpt: 'This study examines the relation between news consumption and fostering public deliberation within democratic systems. Drawing on Jürgen Habermas’s concepts of understanding orientation (consensus-oriented, communicative rationality) and strategic orientation (goal-oriented, instrumental rationality), it explores how news media can either facilitate rational communication in public debates or, alternatively, encourage strategic interventions. To investigate these relationships, this study utilizes a survey in Chile (N = 903) conducted under the supervision of the Millennium Nucleus for the Study of Politics, Public Opinion, and Media (Nucleo MEPOP) between August and September 2022. The findings reveal that traditional media and social media are significantly and positively associated with a strategic orientation, whereas exposure to digital media is negatively associated with such an orientation. Additionally, incidental exposure emerges as a key factor in shaping the relationship between media consumption and deliberative predispositions. This article contributes to the understanding of classical approaches to the study of deliberation in the digital contemporary context, where homophily, polarization, and confrontation have emerged as significant challenges for both developing and established democracies.'
-date: 2025-10-01
+date: 2025-10-02
 venue: 'Media and Communication'
 paperurl: 'https://www.cogitatiopress.com/mediaandcommunication/article/view/9959'
 citation: 'Scherman, A., Fierro, P., & Shan, Y. (2025). Democracy, Deliberation, and Media: The Role of Incidental Exposure and News Consumption. Media and Communication, 13, Article 9959. https://doi.org/10.17645/mac.9959'
